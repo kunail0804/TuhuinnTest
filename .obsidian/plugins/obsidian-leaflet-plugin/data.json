@@ -1,0 +1,200 @@
+{
+  "mapMarkers": [
+    {
+      "id": "beinnjwall",
+      "lastAccessed": 1715613405861,
+      "markers": [
+        {
+          "id": "ID_f9481a48b9e8",
+          "type": "default",
+          "loc": [
+            -1.345703125,
+            2.03125
+          ],
+          "link": "Test",
+          "layer": "%5B%5BBeinnjwall.png%5D%5D",
+          "mutable": true,
+          "command": false,
+          "percent": null,
+          "description": null,
+          "minZoom": null,
+          "maxZoom": null,
+          "tooltip": "hover"
+        }
+      ],
+      "overlays": [],
+      "shapes": [
+        {
+          "type": "rectangle",
+          "color": "#3388FF",
+          "vertices": [
+            {
+              "lat": -3.5556640625,
+              "lng": 2.5,
+              "id": "ID_f80a8a980848",
+              "targets": {
+                "vertexIds": []
+              }
+            },
+            {
+              "lat": -3.5556640625,
+              "lng": 3.25,
+              "id": "ID_a9db3b5b485a",
+              "targets": {
+                "vertexIds": []
+              }
+            },
+            {
+              "lat": -3.9384765625,
+              "lng": 3.25,
+              "id": "ID_8bdbd85ad939",
+              "targets": {
+                "vertexIds": []
+              }
+            },
+            {
+              "lat": -3.9384765625,
+              "lng": 2.5,
+              "id": "ID_7a48bab8f919",
+              "targets": {
+                "vertexIds": []
+              }
+            }
+          ]
+        },
+        {
+          "type": "polyline",
+          "color": "#3388FF",
+          "vertices": [
+            {
+              "lat": -1.1416015625,
+              "lng": 2.765625,
+              "id": "ID_e8bb6b680a19",
+              "targets": {
+                "vertexIds": []
+              }
+            },
+            {
+              "lat": -2.1494140625,
+              "lng": 2.859375,
+              "id": "ID_3a389b5b19e8",
+              "targets": {
+                "vertexIds": []
+              }
+            },
+            {
+              "lat": -1.3212890625,
+              "lng": 2.0390625,
+              "id": "ID_1b1a09fa6bda",
+              "targets": {
+                "vertexIds": []
+              }
+            },
+            {
+              "lat": -0.5166015625,
+              "lng": 1.3828125,
+              "id": "ID_1bba6848d8eb",
+              "targets": {
+                "vertexIds": []
+              }
+            },
+            {
+              "lat": -0.9541015625,
+              "lng": 0.4296875,
+              "id": "ID_c968d9cb9b0b",
+              "targets": {
+                "vertexIds": []
+              }
+            },
+            {
+              "lat": -1.7509765625,
+              "lng": 0.234375,
+              "id": "ID_b899e94a1abb",
+              "targets": {
+                "vertexIds": []
+              }
+            }
+          ],
+          "arrows": false,
+          "reversed": false
+        },
+        {
+          "type": "polygon",
+          "color": "#3388FF",
+          "vertices": [
+            {
+              "lat": -2.5087890625,
+              "lng": 1.3984375,
+              "id": "ID_b998cb18e988",
+              "targets": {
+                "vertexIds": []
+              }
+            },
+            {
+              "lat": -2.8525390625,
+              "lng": 0.3046875,
+              "id": "ID_cab988a8cafa",
+              "targets": {
+                "vertexIds": []
+              }
+            },
+            {
+              "lat": -3.5556640625,
+              "lng": 1,
+              "id": "ID_19fa2b7a1a8a",
+              "targets": {
+                "vertexIds": []
+              }
+            },
+            {
+              "lat": -2.8759765625,
+              "lng": 2.0859375,
+              "id": "ID_b8ab3bf85a88",
+              "targets": {
+                "vertexIds": []
+              }
+            }
+          ]
+        }
+      ],
+      "files": [
+        "Test.md"
+      ]
+    }
+  ],
+  "defaultMarker": {
+    "type": "default",
+    "iconName": "map-marker",
+    "color": "#dddddd",
+    "transform": {
+      "size": 6,
+      "x": 0,
+      "y": -2
+    }
+  },
+  "markerIcons": [],
+  "color": "#dddddd",
+  "lat": 39.983334,
+  "long": -82.98333,
+  "notePreview": false,
+  "layerMarkers": true,
+  "previousVersion": "6.0.5",
+  "version": {
+    "major": 6,
+    "minor": 0,
+    "patch": 5
+  },
+  "warnedAboutMapMarker": false,
+  "copyOnClick": false,
+  "displayMarkerTooltips": "hover",
+  "displayOverlayTooltips": true,
+  "configDirectory": null,
+  "mapViewEnabled": true,
+  "mapViewParameters": {},
+  "enableDraw": true,
+  "defaultUnitType": "imperial",
+  "defaultTile": "https://{s}.basemaps.cartocdn.com/rastertiles/voyager/{z}/{x}/{y}.png",
+  "defaultTileDark": "https://{s}.basemaps.cartocdn.com/rastertiles/voyager/{z}/{x}/{y}.png",
+  "defaultAttribution": "&copy; <a href=\"https://www.openstreetmap.org/copyright\">OpenStreetMap</a> contributors &copy; <a href=\"https://carto.com/attributions\">CARTO</a>",
+  "defaultTileSubdomains": "a,b,c,d"
+}
