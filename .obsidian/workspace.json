@@ -18,8 +18,19 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "989e6ac40ebd8a47",
+            "type": "leaf",
+            "state": {
+              "type": "excalidraw",
+              "state": {
+                "file": "Drawing 2024-05-13 17.20.17.excalidraw.md"
+              }
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -85,7 +96,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Test.md",
+                "file": "Drawing 2024-05-13 17.20.17.excalidraw.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +113,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Test.md",
+                "file": "Drawing 2024-05-13 17.20.17.excalidraw.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +136,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Test.md"
+                "file": "Drawing 2024-05-13 17.20.17.excalidraw.md"
               }
             }
           },
@@ -159,9 +170,10 @@
       "obsidian-5e-statblocks:Open Creature pane": false
     }
   },
-  "active": "633790a08eac28a5",
+  "active": "989e6ac40ebd8a47",
   "lastOpenFiles": [
-    "Beinnjwall.png",
-    "Test.md"
+    "Test.md",
+    "Drawing 2024-05-13 17.20.17.excalidraw.md",
+    "Beinnjwall.png"
   ]
 }
